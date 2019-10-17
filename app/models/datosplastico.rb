@@ -1,0 +1,2 @@
+class Datosplastico < ApplicationRecord
+end

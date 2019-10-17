@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cantidad: MyString
+  integer: MyString
+  fecha: MyString
+  datetime: MyString
+
+two:
+  cantidad: MyString
+  integer: MyString
+  fecha: MyString
+  datetime: MyString
